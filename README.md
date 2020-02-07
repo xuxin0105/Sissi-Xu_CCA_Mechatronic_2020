@@ -1,5 +1,8 @@
-# sissi_cca_Mechatronic_2020
+# Sissi_CCA_Mechatronic_2020
 Mechatronic HW &amp; Exercise
+
+# Week 1
+![Marble Ball Process](/image/Process01.png)
 
 # Week 2
 - Check My Marble Ball project: https://www.youtube.com/watch?v=KI17auspEGo
