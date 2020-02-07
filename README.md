@@ -3,4 +3,4 @@ Mechatronic HW &amp; Exercise
 
 # Week 2
 - Check My Marble Ball project: https://www.youtube.com/watch?v=KI17auspEGo
-![Marble Ball](/images/Marble Ball1.jpg)
+![Marble Ball](/images/MarbleBall1.png)
