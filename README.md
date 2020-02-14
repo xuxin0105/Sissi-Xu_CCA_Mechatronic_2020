@@ -11,5 +11,5 @@ Mechatronic HW &amp; Exercise
 
 # Week 3
 - Drawing Machine Process
-![Marble Ball](/image/DrawingMachineProcess.jpg)
+![Process](/image/DrawingMachineProcess.JPG)
 ![Circle Machine](/image/DrawingMachine1.GIF)
