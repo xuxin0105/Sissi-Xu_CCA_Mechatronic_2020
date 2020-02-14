@@ -8,3 +8,8 @@ Mechatronic HW &amp; Exercise
 - Check My Marble Ball project: https://www.youtube.com/watch?v=KI17auspEGo
 ![Marble Ball](/image/MarbleBall1.png)
 ![Marble Ball](/image/MarbleBall2.png)
+
+# Week 3
+- Drawing Machine Process
+![Marble Ball](/image/DrawingMachineProcess.jpg)
+![Circle Machine](/image/DrawingMachine1.GIF)
