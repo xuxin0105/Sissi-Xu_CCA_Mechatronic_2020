@@ -3,6 +3,7 @@ Mechatronic HW &amp; Exercise
 
 # Week 4
 -This week I did a small LED project: I decided to use a button to control the led. There are three LEDs total; they will switch light up every time I push the button.
+
 ![LEDs](/image/ButtonLED.GIF)
 ![LEDs](/image/ButtonLEDdraw.JPG)
 
