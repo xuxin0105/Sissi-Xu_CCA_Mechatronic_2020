@@ -4,8 +4,7 @@ Mechatronic HW &amp; Exercise
 # Week 4
 
 # Week 3
-- Drawing Machine Process
-![Process](/image/DrawingMachineProcess.JPG)
+- Drawing Machine
 ![Circle Machine](/image/DrawingMachine1.GIF)
 
 # Week 2
