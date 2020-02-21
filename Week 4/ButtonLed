@@ -1,0 +1,57 @@
+#define button 3   //button on pin3
+#define redLED 5
+#define greenLED 6
+#define yellowLED 7
+
+int state = 0;  // interger to hold current state
+int old = 0;  //interger to hold last state
+int buttonPoll = 0; //interger to hold button state
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(button, INPUT);
+  pinMode(redLED, OUTPUT);
+  pinMode(greenLED, OUTPUT);
+  pinMode(yellowLED, OUTPUT);
+
+  digitalWrite(redLED, LOW);
+  digitalWrite(greenLED, LOW);
+  digitalWrite(yellowLED, LOW);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+  buttonPoll = digitalRead(button);
+  if(buttonPoll == 1){
+    delay(50);
+    buttonPoll = digitalRead(button);
+    if(buttonPoll == 0){
+      state = old +1;
+    }}
+    else{
+      delay(100);
+    }
+    switch(state){
+      case 1:
+      digitalWrite(redLED, HIGH);
+      digitalWrite(greenLED, LOW);
+      digitalWrite(yellowLED, LOW);
+      old = state;
+      break;
+
+      case 2:
+      digitalWrite(redLED, LOW);
+      digitalWrite(greenLED, HIGH);
+      digitalWrite(yellowLED, LOW);
+      old = state;
+      break;
+
+      case 3:
+      digitalWrite(redLED, LOW);
+      digitalWrite(greenLED, LOW);
+      digitalWrite(yellowLED, HIGH);
+      old = 0;
+      break;
+    }
+  }
