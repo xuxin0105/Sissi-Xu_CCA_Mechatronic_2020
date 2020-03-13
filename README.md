@@ -3,7 +3,7 @@ Mechatronic HW &amp; Exercise
 # Week 7 (Midterm)
 -Obstacle Avoiding Car Project (Group: Sissi, Zoey, Tianbai)
 
--Through this project, I learned to use the distance sensor. And use it to control four motors. When the distance between the obstacle and the car is less than 30, the inner wheels do not turn, and the car turns. Doing by the team, we can learn from each other and use teamates' strengths and also experience a large range of hardware with a well-accomplished project.
+-Through this project, I learned to use the distance sensor. And use it to control four motors. When the distance between the obstacle and the car is less than 30, the inner wheels switch direction, and the car turns. Doing by the team, we can learn from each other and use teamates' strengths and also experience a large range of hardware with a well-accomplished project.
 
 # Week 6
 -This week I tried to make a car with moving wheels. I made an AI file that can be laser cut this car on cardboard, and the size needs to be further adjusted.
