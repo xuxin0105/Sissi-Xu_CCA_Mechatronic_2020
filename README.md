@@ -1,9 +1,15 @@
 # Sissi_CCA_Mechatronic_2020
 Mechatronic HW &amp; Exercise
+# Week 7 (Midterm)
+-Electronic Vehicle (Group: Sissi, Zoey, Tianbai)
+-Features: 
 
 # Week 6
 -This week I tried to make a car with moving wheels. I made an AI file that can be laser cut this car on cardboard, and the size needs to be further adjusted.
 ![LCD](/image/Minicars.png)
+
+- In class, We decided to set up a team to build an electric car that could avoid obstacles. Doing by the team, we can learn from each other and use teamates' strengths and also experience a large range of hardware with a well-accomplished project.
+![LCD](/image/Round1prototype.jpeg)
 
 # Week 5
 - This week I tried a new color sensor TCS34725 to identify the color of RGB, and my goal is to display the color on the led. But I face some connection problem, the light of my RGB did not light up. After several attempts, I still don't know where the issue is.
