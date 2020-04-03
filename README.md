@@ -9,6 +9,8 @@ Mechatronic HW &amp; Exercise
 
 ![LCD](/image/VehicleLED.GIF)
 
+- Video Link: https://youtu.be/v_cpWiHK-LU
+
 # Week 6
 -This week I tried to make a car with moving wheels. I made an AI file that can be laser cut this car on cardboard, and the size needs to be further adjusted.
 ![LCD](/image/Minicars.png)
