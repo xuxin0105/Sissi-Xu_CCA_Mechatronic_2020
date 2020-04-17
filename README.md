@@ -5,15 +5,15 @@ Mechatronic HW &amp; Exercise
 
 #### Schematic:
 
-![TCS](/images/Fritzing2.png)
+![LCD](/image/Fritzing2.png)
 
 #### Breadboard:
 
-![TCS](/images/Fritzing1.png)
+![LCD](/image/Fritzing1.png)
 
 #### HOW IT WORKS:
 
-![TCS](/images/IRcontrol.GIF)
+![LCD](/image/IRcontrol.GIF)
 
 #### Resources: 
 - IR Receiver Electronic Brick : http://arduinoinfo.mywikis.net/wiki/IR-RemoteControl
