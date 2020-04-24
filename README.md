@@ -1,5 +1,30 @@
 # Sissi_CCA_Mechatronic_2020
 Mechatronic HW &amp; Exercise
+# Week 14 (Final Project Part 2)
+- This week through online research I learned how to write code in the ardurino to display images on the 8*8 LED Matrix. After reading some articles, I found a software called "Pixel To Matrix," which allows me to design the image I want on the computer and get the corresponding code that I can input to the Arduino. I drew three different expressions: smile😊, neutral😔,and frown😫 on the computer. I asked them to be displayed on my matrix in the loop. My next step is to connect and control the three expressions through the IR remote.
+
+#### Software:
+
+![TCS](/images/PixelToMatrix.PNG)
+
+#### Schematic:
+
+![TCS](/images/Schematic_2.png)
+
+#### Breadboard:
+
+![TCS](/images/Breadboard_2.png)
+
+#### Code:
+- Locate in "FinalProject-Part 2" Folder
+
+#### HOW IT WORKS:
+
+![TCS](/images/Matrix.GIF)
+
+#### Resources: 
+- 8*8 LED Matrix Tutorial: https://www.youtube.com/watch?v=vI3ipE2Wj8Y
+
 # Week 13 (Final Project Part 1)
 - This week, I searching online on how to use and collect basic data from IR remote and use it to control what you want to turn on and off. By watching the online tutorial, I learned how to read the receiver's data through the serial monitor and use the data to turn on and off of the led light from a distance. My next step is to learn how to use the 8*8 LED matrix with the Arduino and program the first emoji (A Happy face ˆ_ˆ).
 
@@ -14,6 +39,9 @@ Mechatronic HW &amp; Exercise
 #### HOW IT WORKS:
 
 ![LCD](/image/IRcontrol.GIF)
+
+#### Code:
+- Locate in "FinalProject-Part 1" Folder
 
 #### Resources: 
 - IR Receiver Electronic Brick : http://arduinoinfo.mywikis.net/wiki/IR-RemoteControl
