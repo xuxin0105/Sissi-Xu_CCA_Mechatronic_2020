@@ -5,22 +5,22 @@ Mechatronic HW &amp; Exercise
 
 #### Software:
 
-![TCS](/images/PixelToMatrix.PNG)
+![TCS](/image/PixelToMatrix.PNG)
 
 #### Schematic:
 
-![TCS](/images/Schematic_2.png)
+![TCS](/image/Schematic_2.png)
 
 #### Breadboard:
 
-![TCS](/images/Breadboard_2.png)
+![TCS](/image/Breadboard_2.png)
 
 #### Code:
 - Locate in "FinalProject-Part 2" Folder
 
 #### HOW IT WORKS:
 
-![TCS](/images/Matrix.GIF)
+![TCS](/image/Matrix.GIF)
 
 #### Resources: 
 - 8*8 LED Matrix Tutorial: https://www.youtube.com/watch?v=vI3ipE2Wj8Y
