@@ -8,117 +8,115 @@ Mechatronic HW &amp; Exercise
 
 ![TCS](/image/PixelToMatrix.PNG)
 
-####  Schematic:
+###  Schematic:
 
-#### Breadboard:
+### Breadboard:
 
-#### Code:
+### Code:
 
-#### HOW IT WORKS:
+### HOW IT WORKS:
 The user in the room needs to use the remote control to press the corresponding expression button on the remote. At the same time, the LED matrix in their roommates' room will receive an image the user sends. It allows their roommates across the room will see the user's current mood without contact; they will immediately understand the user's feelings and reply by doing the same thing.
-
-
 
 - Video Link:
 
 # Week 14 (Final Project Part 2)
 - This week through online research I learned how to write code in the ardurino to display images on the 8*8 LED Matrix. After reading some articles, I found a software called "Pixel To Matrix," which allows me to design the image I want on the computer and get the corresponding code that I can input to the Arduino. I drew three different expressions: smile😊, neutral😔,and frown😫 on the computer. I asked them to be displayed on my matrix in the loop. My next step is to connect and control the three expressions through the IR remote.
 
-#### Software:
+### Software:
 
 ![TCS](/image/PixelToMatrix.PNG)
 
-#### Schematic:
+### Schematic:
 
 ![TCS](/image/Schematic_2.png)
 
-#### Breadboard:
+### Breadboard:
 
 ![TCS](/image/Breadboard_2.png)
 
-#### Code:
+### Code:
 - Locate in "FinalProject-Part 2" Folder
 
-#### HOW IT WORKS:
+### HOW IT WORKS:
 
 ![TCS](/image/Matrix.GIF)
 
-#### Resources: 
+### Resources: 
 - 8*8 LED Matrix Tutorial: https://www.youtube.com/watch?v=vI3ipE2Wj8Y
 
 # Week 13 (Final Project Part 1)
 - This week, I searching online on how to use and collect basic data from IR remote and use it to control what you want to turn on and off. By watching the online tutorial, I learned how to read the receiver's data through the serial monitor and use the data to turn on and off of the led light from a distance. My next step is to learn how to use the 8*8 LED matrix with the Arduino and program the first emoji (A Happy face ˆ_ˆ).
 
-#### Schematic:
+### Schematic:
 
 ![LCD](/image/Fritzing2.png)
 
-#### Breadboard:
+### Breadboard:
 
 ![LCD](/image/Fritzing1.png)
 
-#### HOW IT WORKS:
+### HOW IT WORKS:
 
 ![LCD](/image/IRcontrol.GIF)
 
-#### Code:
+### Code:
 - Locate in "FinalProject-Part 1" Folder
 
-#### Resources: 
+### Resources: 
 - IR Receiver Electronic Brick : http://arduinoinfo.mywikis.net/wiki/IR-RemoteControl
 
 # Week 12 (Final Project Proposal)
 ### Final Project Proposal
-#### #1 Remote Communicator (Hello from the other side):
+### #1 Remote Communicator (Hello from the other side):
 - During this final project, I'd like to learn about how to use the IR Remote & Receiver. Because of the coronavirus, we were told to keep in distance with each other. For long-distance communication, I'd like to use the remote to play my roommate a particular melody that can make her day. And also, send messages (text/ voice/ or play a song) to my roommate living next to me (such as "Hi, Zoe ˆ-ˆ" ). We can communicate with 6 feet distance.This device can also be used outside for communication because we will be covered with the mask so we cannot see each other's face so we will need a device that can print my emotion or mood on the screen (8*8 LED Matrix)
 
 ![LCD](/image/Communicator.JPG)
 
-#### How it works: 
+### How it works: 
 - When I push "1" on the remote, the first LED will light up to tell my roommate we will be communicated on Channel 1. Each channel will be different messages such as text message ("Hello Zoe!" "How's your day?"), When I push "2" on the remote, the second LED will light up to tell my roommate we will be communicated in Channel 2 which allow me to send her an emoji and she can use the remote to replay.
 
 ![LCD](/image/Flow.JPG)
 
-#### Must have:
+### Must have:
 - IR Remote control with the led light
 - 8x8 LED Matrix (Print emoji)
 - Message sent via the LCD Screen.
 
 
-#### Nice to have:
+### Nice to have:
 - Speaker to play the music or melody.
 - Able to switch the melody. 
 - Connect to computer processing to send images.
 
-#### Week One: Get the IR Remote & Receiver work, and be able to control the LED light on the Breadboard.
-#### Week Two: Able to Print emoji on an 8x8 LED Matrix and program to control by the remote. 
-#### Week Three: Connect the LCD screen to the project and send the message control by the remote.
+### Week One: Get the IR Remote & Receiver work, and be able to control the LED light on the Breadboard.
+### Week Two: Able to Print emoji on an 8x8 LED Matrix and program to control by the remote. 
+### Week Three: Connect the LCD screen to the project and send the message control by the remote.
 
-#### Sources: 
+### Sources: 
 - IR Remote Tutorial:https://www.youtube.com/watch?v=3jeSfsnQOWk&t=1s
 - 8x8 LED Matrix:https://www.hackster.io/SAnwandter1/programming-8x8-led-matrix-23475a
 
-
-#### #2 Wearable Distance Reminder:
+-----------------------------------------------------
+### #2 Wearable Distance Reminder:
 
 - In this situation, we have to be safe to keep a safe distance (six feet). My concept is to design a wearable distance safety reminder. When someone is close that 6 feet, the user will get a voice alert, and the warning light will light on to remind the person not to come up so close. 
 
 ![LCD](/image/DistanceReminder.JPG)
 
-#### Must have:
+### Must have:
 - Wearable device to take outside
 - LED Light
 - Voice Reminder
 
-#### Nice to have:
+### Nice to have:
 - A popup sign to show to the person ("Keep away from me !"
 
 
-#### Week One: Learn how to use the distance sensor and use it to control the LED light.
+### Week One: Learn how to use the distance sensor and use it to control the LED light.
 
-#### Week Two: Add up the speaker and input the voice I want to say.
+### Week Two: Add up the speaker and input the voice I want to say.
 
-#### Week Three: Create a popup sign that when the person comes close, a warning will pop up that tells the user to stop. 
+### Week Three: Create a popup sign that when the person comes close, a warning will pop up that tells the user to stop. 
 
 
 # Week 7 (Midterm)
