@@ -12,6 +12,12 @@ Mechatronic HW &amp; Exercise
 
 ![TCS](/image/Schematic_Final.png)
 
+- An Arduino board
+- A breadboard
+- An IR remote Transmitter & a receiver
+- 3 LEDs & 220 ohms resistor
+- A 8*8 LED Matrix
+
 ### Breadboard:
 
 ![TCS](/image/Breadboard_Final.png)
