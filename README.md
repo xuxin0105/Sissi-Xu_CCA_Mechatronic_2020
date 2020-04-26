@@ -13,9 +13,10 @@ Mechatronic HW &amp; Exercise
 ### Breadboard:
 
 ### Code:
+-  Locate in "FinalProject-Final" Folder
 
 ### HOW IT WORKS:
-The user in the room needs to use the remote control to press the corresponding expression button on the remote. At the same time, the LED matrix in their roommates' room will receive an image the user sends. It allows their roommates across the room will see the user's current mood without contact; they will immediately understand the user's feelings and reply by doing the same thing.
+- The user in the room needs to use the remote control to press the corresponding expression button on the remote. At the same time, the LED matrix in their roommates' room will receive an image the user sends. It allows their roommates across the room will see the user's current mood without contact; they will immediately understand the user's feelings and reply by doing the same thing.
 
 - Video Link:
 
