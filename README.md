@@ -4,7 +4,7 @@ Mechatronic HW &amp; Exercise
 # Week 15 (Final Project Presentation)
 -----------------------------------------------------
 ## "Hello ～ From The Other Side!"
-- In the current situation, we are staying safe to keep a distance from other people, and even roommates are no exception. My design concepts have considered today’s special circumstances of COVID-19 and aim to help people communicate under quarantine through images. The Remote control communicator ("Hello～From The Other Side")  allows the user to express emotion across the other side of the room. 
+- In the current situation, we are staying safe to keep a distance from other people, and even roommates are no exception. Without any internet, do you feel lonely living without communication day by day? People usually express their emotions through facial expressions, but if we don't see each other, what should we do? My design concepts have considered today’s special circumstances of COVID-19 and aim to help people communicate under quarantine through images. The Remote control communicator ("Hello～From The Other Side")  allows the user to express emotion across the other side of the room. 
 
 ![TCS](/image/PixelToMatrix.PNG)
 
