@@ -6,11 +6,15 @@ Mechatronic HW &amp; Exercise
 ## "Hello ～ From The Other Side!"
 - In the current situation, we are staying safe to keep a distance from other people, and even roommates are no exception. Without any internet, do you feel lonely living without communication day by day? People usually express their emotions through facial expressions, but if we don't see each other, what should we do? My design concepts have considered today’s special circumstances of COVID-19 and aim to help people communicate under quarantine through images. The Remote control communicator ("Hello～From The Other Side")  allows the user to express emotion across the other side of the room. 
 
-![TCS](/image/PixelToMatrix.PNG)
+![TCS](/image/Cover_heart.JPG)
 
 ###  Schematic:
 
+![TCS](/image/Schematic_Final.png)
+
 ### Breadboard:
+
+![TCS](/image/Breadboard_Final.png)
 
 ### Code:
 -  Locate in "FinalProject-Final" Folder
@@ -19,6 +23,8 @@ Mechatronic HW &amp; Exercise
 - The user in the room needs to use the remote control to press the corresponding expression button on the remote. At the same time, the LED matrix in their roommates' room will receive an image the user sends. It allows their roommates across the room will see the user's current mood without contact; they will immediately understand the user's feelings and reply by doing the same thing.
 
 - Video Link: https://vimeo.com/user109537751/review/411977547/a170424925
+
+![TCS](/image/Remote_emoji.GIF)
 
 # Week 14 (Final Project Part 2)
 - This week through online research I learned how to write code in the ardurino to display images on the 8*8 LED Matrix. After reading some articles, I found a software called "Pixel To Matrix," which allows me to design the image I want on the computer and get the corresponding code that I can input to the Arduino. I drew three different expressions: smile😊, neutral😔,and frown😫 on the computer. I asked them to be displayed on my matrix in the loop. My next step is to connect and control the three expressions through the IR remote.
