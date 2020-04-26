@@ -4,7 +4,22 @@ Mechatronic HW &amp; Exercise
 # Week 15 (Final Project Presentation)
 -----------------------------------------------------
 ## "Hello ～ From The Other Side!"
-- In the current situation, we are staying safe to keep a distance from other people, and even roommates are no exception. My design concepts have considered today’s special circumstances of COVID-19 and aim to help people communicate under quarantine. 
+- In the current situation, we are staying safe to keep a distance from other people, and even roommates are no exception. My design concepts have considered today’s special circumstances of COVID-19 and aim to help people communicate under quarantine through images. The Remote control communicator ("Hello～From The Other Side")  allows the user to express emotion across the other side of the room. 
+
+![TCS](/image/PixelToMatrix.PNG)
+
+####  Schematic:
+
+#### Breadboard:
+
+#### Code:
+
+#### HOW IT WORKS:
+The user in the room needs to use the remote control to press the corresponding expression button on the remote. At the same time, the LED matrix in their roommates' room will receive an image the user sends. It allows their roommates across the room will see the user's current mood without contact; they will immediately understand the user's feelings and reply by doing the same thing.
+
+
+
+- Video Link:
 
 # Week 14 (Final Project Part 2)
 - This week through online research I learned how to write code in the ardurino to display images on the 8*8 LED Matrix. After reading some articles, I found a software called "Pixel To Matrix," which allows me to design the image I want on the computer and get the corresponding code that I can input to the Arduino. I drew three different expressions: smile😊, neutral😔,and frown😫 on the computer. I asked them to be displayed on my matrix in the loop. My next step is to connect and control the three expressions through the IR remote.
